@@ -1,6 +1,6 @@
 <h1>blankspace</h1>
 
-<h3>UNC4990 obfuscation technique to hide payloads on a "blank" text file</h3>
+<h3>UNC4990 obfuscation technique to hide payloads in a "blank" text file</h3>
 
 I recently saw an article from Mandiant that covered this technique used by UNC4990 on which it sparked my interest to develop a script that obfuscate and deobfuscate based from this technique. Can be useful for red team engagements or if you encountered a "blank" text file that appears to be suspicious, you can use the decoding script to see the deobfuscated version.
 
