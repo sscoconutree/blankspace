@@ -9,11 +9,7 @@ def check_spaces_and_tabs(file_path):
                     ascii_string += '1'
                 elif char == '\t':
                     ascii_string += '0'
-                elif char == '\n':
-                    ascii_string += '00100000'  # Binary representation of space
-                else:
-                    ascii_string += '1'  # Treat any other character as a space
-
+                    
             # Split the binary string into chunks of 8 digits
             chunks = [ascii_string[i:i+8] for i in range(0, len(ascii_string), 8)]
 
