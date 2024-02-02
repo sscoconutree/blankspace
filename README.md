@@ -6,6 +6,8 @@ I recently saw an article from Mandiant that covered this technique used by UNC4
 
 ![image](https://github.com/sscoconutree/blankspace/assets/59388557/7ed2b9d6-e97a-49ae-96a0-9f2336168044)
 
+NOTE: This script did not adapt newlines as spaces
+
 Reference: https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 
 ⚠️ Disclaimer: Employing the methods and principles outlined in this repository to obtain unauthorized entry into systems without proper authorization is against the law. You are accountable for your conduct. Act responsibly and refrain from engaging in malicious activities. This is for educational purposes only.
